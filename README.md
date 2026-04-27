@@ -79,8 +79,8 @@ III. Pivot Charts
 # Sample_Work
 
 * Dashboard Overview
-  
-[Insert dashboard screenshot here]
+<img width="1291" height="441" alt="image" src="https://github.com/user-attachments/assets/42d4734c-2f61-45ec-81d4-ae405f0db055" />
+
 
 
 <hr>
