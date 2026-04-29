@@ -89,6 +89,9 @@ III. Pivot Charts
 * KPI Cards & Monthly Trends
 
 [Insert KPI and trend visualization screenshot here]
+<img width="784" height="459" alt="image" src="https://github.com/user-attachments/assets/a668ca0e-ebf6-4d58-8a46-136153602074" />
+
+<img width="541" height="456" alt="image" src="https://github.com/user-attachments/assets/75959f28-a0c6-4db2-ae20-f65af6226c7b" />
 
 
 <hr>
@@ -97,6 +100,8 @@ III. Pivot Charts
 * Expense Breakdown
 
 [Insert category-based expense chart screenshot here]
+<img width="689" height="477" alt="image" src="https://github.com/user-attachments/assets/0833a52e-2d18-475a-b723-4c44ef08c2b2" />
+
 """
 
 print(readme_text)
